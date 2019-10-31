@@ -1,0 +1,2 @@
+# Switchstatement-
+Practice of switchstatement 
